@@ -9,8 +9,7 @@ error_reporting(E_ERROR | E_PARSE);
 <!DOCTYPE html>
 <html lang="en">
     <head>
-      <!-- Theme Made By www.w3schools.com - No Copyright 
-      https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp-->
+
       <title>Five colors</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">

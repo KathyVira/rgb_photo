@@ -1,11 +1,7 @@
 <?php
 
-// https://www.w3schools.com/php/php_file_upload.asp
+
 //https://www.php.net/manual/en/function.imagecolorclosest.php
-
-
-// Check if image file is a actual image or fake image
-
 
     $target_dir = "images/";
 
